@@ -16,8 +16,8 @@ gem 'coffee-rails', '~> 4.1.0'
 
 # gem 'doorkeeper'
 # gem 'devise'
+gem 'omniauth-oauth2', '~> 1.3.1'
 
-gem 'omniauth-oauth2'
 
 
 
